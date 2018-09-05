@@ -1,6 +1,6 @@
-# Machine-Learning
+# Machine Learning on Coursera
 
 start machine learning study
 
-Stamford Univ. Andrew Ng Machine Learing 
+Instructor : Stamford Univ. Andrew Ng 
 
