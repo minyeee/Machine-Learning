@@ -1,10 +1,15 @@
 # 1.2 Linear Regression with one variable
 
+## 1.2.1 Model Representation
+
 ``` Notation
 Notation
+dataset = Training Set
 m = Number of Training examples
 x's = "input"variable / features
 y's = "output"variable / "target"variable
+(x,y) = one training example
+(x(i),y(i)) = i th training example
 ```
 
 * Training Set -> Learning Algorithm -> *hypothesis*
@@ -17,5 +22,7 @@ y's = "output"variable / "target"variable
 
 ## 1.2.1 Cost Function
 
-> Idea : Choose ⍬0,⍬1 so that h⍬(x) is close to y for our training examples (x,y)
+* Cost Funtion을 사용하게 되면 주어진 데이터에 가장 가까운 일차함수 그래프를 알아 낼 수 있다. 
+
+
 
